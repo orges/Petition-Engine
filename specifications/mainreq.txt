@@ -1,5 +1,5 @@
 #                                                                                                       #
-#           Petition Engine  - Main Functions                                                           #
+#                                 Petition Engine  - Main Functions                                     #
 #                                                                                                       #
 
 1-) It should be a platform that allow "Petitioner"s to create campaigns, create organizations,
