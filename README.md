@@ -2,7 +2,7 @@
 
 *"It should be a platform that allows petitioners to create campaigns, create
 organizations, follow specific categories, share articles and experiences
-related to campaigns or organizations and invite members for meetings."*
+related to campaigns or organizations and invite members for meetings."* Petition Engine  - Main Functions no:1
 
 Please see [main functions](https://github.com/orges/Petition-Engine/blob/master/specifications/mainreq.txt) for specifications.
 
