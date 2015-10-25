@@ -1,8 +1,8 @@
 # Petition-Engine
 
-"It should be a platform that allow "Petitioner"s to create campaigns, create
+*"It should be a platform that allow "Petitioner"s to create campaigns, create
 organizations, follow specific categories, share articles and experiences
-related to campaigns or organizations and invite members for meetings."
+related to campaigns or organizations and invite members for meetings."*
 
 Please see specifications folder for functional requirements.
 
