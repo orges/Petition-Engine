@@ -1,0 +1,35 @@
+#                                                                              #
+#           Petition Engine  - Main Functions                                  #
+#                                                                              #
+
+1-) It should be a platform that allow "Petitioner"s to create campaigns, create
+organizations, follow specific categories, share articles and experiences
+related to campaigns or organizations and invite members for meetings.
+(Fundamental Feature)
+
+3-) It should support multiple languages (Medium Priority)
+
+3-) It should support multiple organizations and petitioners without any
+organization. (Fundamental Feature)
+
+4-) It should allow any user to create account and create any kind of organization.
+(Fundamental Feature)
+
+5-) It should allow anyone to send request to join any organization.
+(Fundamental Feature)
+
+6-) It should support letting "Petitioner" to create any "Campaign" as creator
+ or as a member of a "Organization"
+(Fundamental Feature)
+
+7-) It should support that any kind of content to be marked as Impersonating, Commercial (Low Priority)
+
+8-) It should support reporting of marked content to all organization members
+of the publisher (Low Priority)
+
+
+8-) It should allow Petitioners to use their existing accounts for
+facebook, twitter, gmail etc... (Fundamental Feature)
+
+9-) It should allow Petitioners hide any kind of profile information from others.
+(Fundamental Feature)
