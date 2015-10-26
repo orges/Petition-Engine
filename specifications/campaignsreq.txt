@@ -1,1 +1,18 @@
+#                                                                                                       #
+#                                 Petition Engine  - Campaign Functions                                 #
+#                                                                                                       #
+
 Please see mainreq.txt firstly.
+
+1-) Anyone can start a campaign.
+
+2-) Core members (who are elected) of a organization can start campaigns on
+ behalf of related organization
+
+3-) Members of organization can veto the campaign started by a core member of related organization
+
+4-) Anyone can join a campaign as petitioner
+
+5-) Any petitioner can subscribe to a campaign's posts
+
+6-) Campaigns may have tags to show similarities with campaigns

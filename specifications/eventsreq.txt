@@ -1,1 +1,5 @@
 Please see mainreq.txt firstly.
+
+1-) Events are campaigns with specific date time and place information.
+
+2-) Event is a specific campaign with all other campaign functions.
