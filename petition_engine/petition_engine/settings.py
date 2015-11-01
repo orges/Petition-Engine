@@ -31,6 +31,7 @@ INSTALLED_APPS = (
     'account',
     'campaign',
     'event',
+    'petition',
 )
 
 MIDDLEWARE_CLASSES = (
