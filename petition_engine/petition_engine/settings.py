@@ -20,12 +20,13 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    # Custom Django apps
     'django.contrib.sites',
+    'django.contrib.flatpages',
 
     # Third Party
     'social_auth',
+    'taggit',
+    'django_wysiwyg',
 
     # Petition Engine Apps
     'account',
